@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bitly - URL Shorterner</title>
+    <title>URL Shortener</title>
 </head>
 <style>
     .header{
@@ -54,7 +54,7 @@
     }
 </style>
 <body>
-    <div class="header">Bitly URL Shortener</div>
+    <div class="header">URL Shortener</div>
 
     <form action="generateUrl" method="post">
         <table class="tablestyle">
@@ -64,7 +64,7 @@
           </tr>
           <tr>
             <td colspan="2" align="center" >
-                <input type="submit" name="submit"  class="urlbutton" value="Generate URL">
+                <input type="submit" name="submit"  class="urlbutton" value="Generate Shortened URL">
             </td>
           </tr>
         </table>

@@ -1,6 +1,6 @@
-package com.learning.BitlyShortUrlWithSpringMVC.dao;
+package com.learning.dao;
 
-import com.learning.BitlyShortUrlWithSpringMVC.model.*;
+import com.learning.model.*;
 import org.springframework.data.jpa.repository.*;
 import org.springframework.stereotype.*;
 

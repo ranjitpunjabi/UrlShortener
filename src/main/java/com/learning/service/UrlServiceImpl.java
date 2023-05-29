@@ -1,7 +1,7 @@
-package com.learning.BitlyShortUrlWithSpringMVC.service;
+package com.learning.service;
 
-import com.learning.BitlyShortUrlWithSpringMVC.dao.*;
-import com.learning.BitlyShortUrlWithSpringMVC.model.*;
+import com.learning.dao.*;
+import com.learning.model.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;
 

@@ -1,4 +1,4 @@
-package com.learning.BitlyShortUrlWithSpringMVC.model;
+package com.learning.model;
 
 import jakarta.persistence.*;
 import lombok.*;

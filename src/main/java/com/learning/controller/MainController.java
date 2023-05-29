@@ -1,6 +1,6 @@
-package com.learning.BitlyShortUrlWithSpringMVC.controller;
+package com.learning.controller;
 
-import com.learning.BitlyShortUrlWithSpringMVC.service.*;
+import com.learning.service.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.stereotype.*;
 import org.springframework.web.bind.annotation.*;

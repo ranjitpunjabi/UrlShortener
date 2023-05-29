@@ -1,4 +1,4 @@
-package com.learning.BitlyShortUrlWithSpringMVC.service;
+package com.learning.service;
 
 public interface UrlService {
 
